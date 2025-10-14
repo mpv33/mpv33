@@ -1,7 +1,7 @@
 <!-- 🧑‍💻 Header Section -->
 <h1 align="center">👋 Hi, I'm Mateshwari Prasad Verma</h1>
 <p align="center">
-  🚀 <b>Senior Frontend Engineer</b> · <b>Full-Stack Developer</b> · <b>System Design Enthusiast</b><br/>
+  🚀 <b>Lead Frontend Engineer @ <a href="https://www.coredge.io" target="_blank">Coredge.io</a></b> · <b>Founder @ <a href="https://www.interviewpro.info" target="_blank">InterviewPro</a></b><br/>
   📍 Noida, India &nbsp;|&nbsp; ✉️ <a href="mailto:mateshwari33@gmail.com">mateshwari33@gmail.com</a> &nbsp;|&nbsp; 🌐 <a href="https://www.interviewpro.info" target="_blank">interviewpro.info</a>
 </p>
 
@@ -9,11 +9,12 @@
 
 ## 🧠 About Me  
 
-I’m a **Senior Frontend Engineer** with a strong full-stack background — passionate about building **performant, scalable, and developer-friendly web applications**.  
-I focus on **engineering excellence** and **user-centric design**, bridging the gap between clean architecture and exceptional UX.  
+I’m a **Lead Frontend Engineer at [Coredge.io](https://www.coredge.io)** and the **Founder of [InterviewPro](https://www.interviewpro.info)** — where I build products that blend **engineering excellence** with **intuitive user experience**.  
 
-💡 Currently leading development on [**InterviewPro**](https://www.interviewpro.info/) — an **AI-driven interview preparation platform** helping developers upskill through real-world challenges.  
-I enjoy crafting design systems, exploring **micro-frontend architecture**, and experimenting with **AI-assisted developer tools**.
+I specialize in crafting **scalable design systems**, **micro-frontend architectures**, and **high-performance interfaces** for enterprise-grade platforms.  
+My focus is on building developer-centric tools, modern frontend ecosystems, and shaping product experiences that scale elegantly.  
+
+💡 Currently leading frontend architecture and development at Coredge ( Apeiro ), building **Kenya Gov. SHA Portal**, while also scaling **InterviewPro**, an **AI-driven interview preparation platform** helping developers upskill through real-world coding challenges.
 
 ---
 
@@ -22,14 +23,14 @@ I enjoy crafting design systems, exploring **micro-frontend architecture**, and 
 > *Building the future of developer interview preparation.*
 
 **Key Highlights:**
-- ⚡ Built a **real-time coding playground** simulating machine-coding rounds.  
-- 🧠 Authored **200+ curated DSA & full-stack problems** with guided solutions.  
-- 🧩 Designed a **micro-frontend architecture** for modular scalability.  
-- 📊 Integrated **performance analytics** and personalized learning insights.  
-- 🚀 Deployed with **Vercel + Node.js** and full CI/CD automation.
+- 🧠 Developed a **real-time coding playground** simulating machine-coding rounds  
+- 🧩 Designed a **micro-frontend architecture** enabling modular scalability  
+- ⚡ Authored **200+ curated DSA & full-stack problems** with guided insights  
+- 📊 Built **personalized analytics dashboards** for learner performance  
+- 🚀 Fully automated CI/CD pipelines on **Vercel + Node.js backend**
 
 **Tech Stack:**  
-`React` · `Next.js` · `Vite` · `TypeScript` · `Tailwind CSS` · `Node.js` · `MongoDB` · `Vercel`
+`React` · `Next.js` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `MongoDB` · `Vercel`
 
 ---
 
@@ -63,18 +64,18 @@ I enjoy crafting design systems, exploring **micro-frontend architecture**, and 
 
 | Area | Focus |
 |------|--------|
-| **Frontend Engineering** | Scalable UI systems, Atomic Design, React + Next.js, TypeScript |
+| **Frontend Architecture** | Scalable UI systems, Micro-frontends, Atomic Design |
 | **Backend Systems** | Node.js, REST APIs, Auth, Caching, MongoDB |
-| **System Design** | Micro-frontends, Modular Monorepos, Performance Architecture |
-| **DevOps & Tooling** | Vercel, AWS, GitHub Actions, CI/CD, Monitoring |
-| **Product Thinking** | Developer Experience (DX), UX Optimization, Real-world performance |
+| **System Design** | Modular Monorepos, High-Performance Web Architecture |
+| **DevOps & Tooling** | CI/CD, AWS, Vercel, GitHub Actions, Observability |
+| **Product & UX** | Developer Experience (DX), Performance-first UX, Accessibility |
 
 ---
 
 ## 🧠 Currently Exploring  
-- 🧩 **Micro-frontend architecture** for enterprise scalability  
-- 🤖 **AI-driven developer tooling** (LLM-powered code assistants)  
-- ⚙️ **Edge rendering & serverless systems** for ultra-fast delivery  
+- 🧩 **Micro-frontend orchestration patterns** for large-scale products  
+- 🤖 **AI-driven developer tooling** (LLM-powered frontend workflows)  
+- ⚙️ **Serverless & edge rendering** for ultra-fast global delivery  
 
 ---
 
@@ -91,16 +92,16 @@ I enjoy crafting design systems, exploring **micro-frontend architecture**, and 
 
 <table>
 <tr>
-<td width="49%">
+<td width="49%" align="center">
 
-<!-- Overall Stats (counts private + fresher cache) -->
+<!-- Overall Stats -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mpv33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
-  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=mpv33&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+  alt="Mateshwari Prasad Verma GitHub Stats"
 />
 
 </td>
-<td width="49%">
+<td width="49%" align="center">
 
 <!-- Streak -->
 <img
@@ -112,16 +113,16 @@ I enjoy crafting design systems, exploring **micro-frontend architecture**, and 
 </tr>
 
 <tr>
-<td width="49%">
+<td width="49%" align="center">
 
-<!-- Top Languages (counts private + cap languages + optional noise hide) -->
+<!-- Top Languages -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpv33&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800&hide=html,css"
   alt="Top Languages"
 />
 
 </td>
-<td width="49%">
+<td width="49%" align="center">
 
 <!-- Contribution Graph -->
 <img
@@ -135,7 +136,7 @@ I enjoy crafting design systems, exploring **micro-frontend architecture**, and 
 
 </div>
 
-
+---
 
 ## 🌐 Connect  
 
@@ -148,4 +149,4 @@ I enjoy crafting design systems, exploring **micro-frontend architecture**, and 
 
 ---
 
-⭐ *Always learning. Always building. Let’s connect if you’re hiring or creating something meaningful.*
+⭐ *Engineering user-centric, scalable, and intelligent web systems — one interface at a time.*
