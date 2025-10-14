@@ -88,10 +88,12 @@ I enjoy crafting design systems, exploring **micro-frontend architecture**, and 
 ## 📈 GitHub Insights  
 
 <p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats-mpv33.vercel.app/api?username=mpv33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  />
+<img 
+  width="48%" 
+  src="https://github-readme-stats.vercel.app/api?username=mpv33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
+  alt="GitHub Stats"
+/>
+
   <img 
     width="48%" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=mpv33&theme=tokyonight&hide_border=true" 
