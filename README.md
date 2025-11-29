@@ -42,21 +42,9 @@ Focused on delivering systems that feel **smooth, predictable, and engineered wi
 ### **InterviewPro — AI-Powered Interview Platform**
 Real-time coding playground + autonomous AI evaluation engine.
 
-<p align="center">
-<img src="https://cdn.dribbble.com/userupload/13291998/file/original-bb4ea2c510bb1e1c54d393ca5bfb6f12.png" width="90%" style="border-radius:12px;" />
-</p>
-
 Live → **https://www.interviewpro.info**
 
----
 
-## 📈 GitHub Stats  
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mpv33&theme=radical&show_icons=true&hide_border=true" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=mpv33&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect  
 <p align="center">
