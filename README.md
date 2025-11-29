@@ -1,68 +1,59 @@
-<!-- =============================================== -->
-<!-- ULTRA-PREMIUM SAAS FOUNDER EDITION README (V4) -->
-<!-- Minimal • Clean • Apple × Linear Inspired       -->
-<!-- =============================================== -->
-
-<br/>
-
 <div align="center">
 
 # <strong>Mateshwari Prasad Verma</strong>
 
-Frontend Engineering • Product Design • AI-Driven Web Systems  
+Senior Frontend Engineer • React/Next.js • AI-Driven Engineering  
 Founder of <a href="https://www.interviewpro.info" target="_blank"><strong>InterviewPro</strong></a>
 
-<br/>
+A builder focused on performant frontend systems, clean engineering, and AI-powered developer experiences.
 
-Building modern interfaces, scalable architectures, and intelligent developer tools with a strong focus on clarity, performance, and elegant engineering.
-
-<br/>
-<hr width="60%" />
 </div>
 
-## Purpose  
-I create digital products that emphasize **precision**, **minimalism**, and **speed**.  
-My work spans frontend architecture, developer experience tooling, and AI-powered interactions.  
-I value systems that are thoughtfully designed, predictable, and frictionless to use.
+---
+
+## Summary  
+Frontend-focused engineer with strong expertise in **React**, **Next.js**, **TypeScript**, **performance engineering**, and **LLM-based workflows**.  
+I build fast, reliable, thoughtfully designed user interfaces and production systems.
+
+I enjoy shipping products end-to-end: architecture → UI systems → DX tooling → performance → release.
 
 ---
 
-## Principles  
-- **Clarity over complexity**  
-- **Systems over scattered features**  
-- **Performance as a product requirement**  
-- **Interfaces that feel intentional**  
-- **AI as an invisible layer enhancing experience**  
+## What I’m Good At  
+- Scalable React/Next.js architectures  
+- High-performance UI engineering  
+- AI-powered evaluation & automation workflows  
+- Clean design systems & predictable state management  
+- Developer experience, tooling, testing, CI/CD  
+- Product-thinking with attention to usability & detail  
 
 ---
 
-## Core Stack  
-React • Next.js • TypeScript • Zustand • Node.js  
-Tailwind • MongoDB • Vercel • AWS  
-LLM Integrations • Performance Engineering • CI/CD Systems
+## Current Focus  
+Building modern web systems with:  
+**React · Next.js · TypeScript · Zustand · Node.js · MongoDB · Vercel · LLM Integrations**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,mongodb,vite,vercel,aws,git,github&perline=10" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,express,mongodb,vercel,aws,git,github&perline=10" />
 </p>
 
 ---
 
-## Product  
-### InterviewPro  
-A modern, AI-driven technical interview platform.  
-Thoughtfully designed to help developers practice machine-coding, DSA, and real engineering scenarios in a clean, distraction-free experience.
+## Featured Work  
+### **InterviewPro — AI-Powered Interview Platform**  
+A clean, modern platform for DSA, machine coding, and real-world coding interviews.
 
-• Real-time coding playground  
-• AI-powered evaluation engine  
-• Personalized learning insights  
-• Minimal and performance-focused UI  
+Includes:  
+• Real-time coding environment  
+• Autonomous AI evaluation engine  
+• Personalized insights  
+• Minimal, fast, scalable UI  
 
 → https://www.interviewpro.info
 
 ---
 
-## GitHub Overview  
-
+## GitHub Snapshot  
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=mpv33&theme=transparent&show_icons=true&hide_border=true" />
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=mpv33&theme=transparent&hide_border=true" />
@@ -71,15 +62,10 @@ Thoughtfully designed to help developers practice machine-coding, DSA, and real 
 ---
 
 ## Connect  
-<a href="https://www.linkedin.com/in/mateshwari-verma-a41143168/" target="_blank">LinkedIn</a>  
-<a href="https://github.com/mpv33" target="_blank">GitHub</a>  
-<a href="https://www.interviewpro.info" target="_blank">InterviewPro</a>
+<a href="https://www.linkedin.com/in/mateshwari-verma-a41143168/">LinkedIn</a> •
+<a href="https://github.com/mpv33">GitHub</a> •
+<a href="https://leetcode.com/u/mateshwari33/">LeetCode</a>
 
 <br/>
 
-<div align="center">
-<hr width="60%" />
-<strong>Designing calm, scalable, and intelligent web systems.</strong>
-</div>
-
-<br/>
+<div align="center"><strong>Building clean, fast, and intelligent user experiences.</strong></div>
