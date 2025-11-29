@@ -8,11 +8,9 @@
 
 <br/><br/>
 
-<img src="https://github.com/mpv33.png" width="120" style="border-radius:50%;" />
-
 # <strong>Mateshwari Prasad Verma</strong>  
 Frontend-Focused Full-Stack Engineer • AI-Driven Web Engineering  
-Founder of <a href="https://www.interviewpro.info" target="_blank"><strong>InterviewPro</strong></a>
+Founder of <a href="https://www.interviewpro.info" target="_blank"><strong>InterviewPro Info</strong></a>
 
 <br/>
 
