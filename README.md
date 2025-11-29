@@ -2,54 +2,74 @@
 
 # <strong>Mateshwari Prasad Verma</strong>
 
-Senior Frontend Engineer • React/Next.js • AI-Driven Engineering  
+Frontend-Focused Full-Stack Engineer  
+React • Next.js • TypeScript • Node.js • AI-Powered Web Engineering  
 Founder of <a href="https://www.interviewpro.info" target="_blank"><strong>InterviewPro</strong></a>
 
-A builder focused on performant frontend systems, clean engineering, and AI-powered developer experiences.
+Building fast, scalable, and intelligent web experiences.
 
 </div>
 
 ---
 
-## Summary  
-Frontend-focused engineer with strong expertise in **React**, **Next.js**, **TypeScript**, **performance engineering**, and **LLM-based workflows**.  
-I build fast, reliable, thoughtfully designed user interfaces and production systems.
+## Profile  
+Frontend-first engineer with strong full-stack capability.  
+I specialize in crafting **high-performance interfaces**, **scalable React/Next.js systems**,  
+and **AI-enhanced developer workflows**.  
 
-I enjoy shipping products end-to-end: architecture → UI systems → DX tooling → performance → release.
+My engineering approach blends:  
+• clean architecture  
+• predictable state management  
+• performance tuning  
+• thoughtful product design  
+• end-to-end ownership  
 
----
-
-## What I’m Good At  
-- Scalable React/Next.js architectures  
-- High-performance UI engineering  
-- AI-powered evaluation & automation workflows  
-- Clean design systems & predictable state management  
-- Developer experience, tooling, testing, CI/CD  
-- Product-thinking with attention to usability & detail  
+I enjoy turning complex ideas into clear, fast, reliable interfaces.
 
 ---
 
-## Current Focus  
-Building modern web systems with:  
-**React · Next.js · TypeScript · Zustand · Node.js · MongoDB · Vercel · LLM Integrations**
+## Core Strengths  
+### **Frontend Engineering (Primary Focus)**  
+- React, Next.js, TypeScript  
+- Component architecture, design systems  
+- Tailwind, Zustand, Redux  
+- Rendering strategies, performance optimization  
+- Accessibility, UX polish, motion & micro-interactions  
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,express,mongodb,vercel,aws,git,github&perline=10" />
+### **Full-Stack Engineering**  
+- Node.js, Express  
+- MongoDB, REST APIs  
+- Serverless + edge rendering  
+- Auth, caching, API design  
+- LLM integrations & AI workflows  
+
+### **Engineering Practices**  
+- CI/CD, GitHub Actions  
+- Jest/RTL testing  
+- System design fundamentals  
+- Developer Experience (DX) tooling  
+- Performance as a feature  
+
+---
+
+## Tech Stack  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,redux,zustand,nodejs,express,mongodb,vercel,aws,git,github&perline=10" />
 </p>
 
 ---
 
 ## Featured Work  
 ### **InterviewPro — AI-Powered Interview Platform**  
-A clean, modern platform for DSA, machine coding, and real-world coding interviews.
+A modern web platform for DSA, machine coding, and real-world engineering interviews.  
 
 Includes:  
-• Real-time coding environment  
-• Autonomous AI evaluation engine  
-• Personalized insights  
-• Minimal, fast, scalable UI  
+• Real-time coding playground  
+• AI-driven evaluation engine  
+• Personalized insights & analytics  
+• Clean, minimalist, high-performance UI  
 
-→ https://www.interviewpro.info
+Live → https://www.interviewpro.info
 
 ---
 
@@ -64,8 +84,11 @@ Includes:
 ## Connect  
 <a href="https://www.linkedin.com/in/mateshwari-verma-a41143168/">LinkedIn</a> •
 <a href="https://github.com/mpv33">GitHub</a> •
-<a href="https://leetcode.com/u/mateshwari33/">LeetCode</a>
+<a href="https://leetcode.com/u/mateshwari33/">LeetCode</a> •
+<a href="https://www.interviewpro.info">InterviewPro</a>
 
 <br/>
 
-<div align="center"><strong>Building clean, fast, and intelligent user experiences.</strong></div>
+<div align="center">
+<strong>Focused on clarity, performance, and engineering excellence.</strong>
+</div>
